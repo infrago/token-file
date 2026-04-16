@@ -3,9 +3,9 @@ module github.com/infrago/token-file
 go 1.25.3
 
 require (
-	github.com/infrago/base v0.21.0
-	github.com/infrago/infra v0.21.0
-	github.com/infrago/token v0.21.0
+	github.com/infrago/base v0.22.0
+	github.com/infrago/infra v0.22.0
+	github.com/infrago/token v0.22.0
 	github.com/tidwall/buntdb v1.3.2
 )
 
