@@ -18,6 +18,7 @@
 ```toml
 [token.setting]
 file_path = "store/token.db"
+store_codec = "json"
 ```
 
 ## 状态
